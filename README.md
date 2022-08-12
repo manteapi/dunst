@@ -13,3 +13,6 @@ dunstify "It works"
 ```shell
 dunstctl set-paused true/false/toggle
 ```
+## Wayland
+
+see https://dunst-project.org/faq/
